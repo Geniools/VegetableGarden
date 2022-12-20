@@ -1,0 +1,5 @@
+public enum Status {
+	GROWING,
+	READY_FOR_HARVESTING,
+	DAMAGED
+}
